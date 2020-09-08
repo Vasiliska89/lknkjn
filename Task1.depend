@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1599312119 source:c:\users\super\onedrive\Рабочий стол\proggers\3sem\task1\main.cpp
+	<iostream>
+	<graphics.h>
+	"clCircle.h"
+	"clLine.h"
+
+1599312052 c:\users\super\onedrive\Рабочий стол\proggers\3sem\task1\include\clcircle.h
+
+1599309778 source:c:\users\super\onedrive\Рабочий стол\proggers\3sem\task1\src\clcircle.cpp
+	"clCircle.h"
+	<iostream>
+	<graphics.h>
+
+1599310624 source:c:\users\super\onedrive\Рабочий стол\proggers\3sem\task1\src\clline.cpp
+	"clLine.h"
+	<iostream>
+	<graphics.h>
+
+1599310462 c:\users\super\onedrive\Рабочий стол\proggers\3sem\task1\include\clline.h
+
+1599312120 source:c:\users\pc\desktop\moyo\c\task1\main.cpp
+	<iostream>
+	<graphics.h>
+	"clCircle.h"
+	"clLine.h"
+
+1599312054 c:\users\pc\desktop\moyo\c\task1\include\clcircle.h
+
+1599310464 c:\users\pc\desktop\moyo\c\task1\include\clline.h
+
+1599309780 source:c:\users\pc\desktop\moyo\c\task1\src\clcircle.cpp
+	"clCircle.h"
+	<iostream>
+	<graphics.h>
+
+1599310626 source:c:\users\pc\desktop\moyo\c\task1\src\clline.cpp
+	"clLine.h"
+	<iostream>
+	<graphics.h>
+
